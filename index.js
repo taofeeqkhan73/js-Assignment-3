@@ -58,7 +58,7 @@ for (let i of num){
 console.log(len);
 
 // question no-6
-let S = "ADDAAADDDDD";  // Sample Input
+let S = "ADDAAADDDDD";  
 let A = 0;
 let D = 0;
 
